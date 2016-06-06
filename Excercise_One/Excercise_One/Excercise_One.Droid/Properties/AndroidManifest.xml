@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
 	<uses-sdk android:minSdkVersion="14" />
-	<application android:label="Excercies_One.Droid"></application>
+	<application android:label="Excercise_One.Droid"></application>
 </manifest>

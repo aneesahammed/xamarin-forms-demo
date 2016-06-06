@@ -7,9 +7,10 @@ using Android.Views;
 using Android.Widget;
 using Android.OS;
 
-namespace Excercies_One.Droid
+
+namespace Excercise_One.Droid
 {
-	[Activity (Label = "Excercies_One.Droid", MainLauncher = true, Icon = "@drawable/icon")]
+	[Activity (Label = "Excercise_One.Droid", MainLauncher = true, Icon = "@drawable/icon")]
 	public class MainActivity : Activity
 	{
 		int count = 1;
@@ -19,7 +20,7 @@ namespace Excercies_One.Droid
 			base.OnCreate (bundle);
 
 			// Set our view from the "main" layout resource
-			SetContentView (Resource.Layout.Main);
+			//SetContentView (Resource.Layout.Main);
 		}
 	}
 }
