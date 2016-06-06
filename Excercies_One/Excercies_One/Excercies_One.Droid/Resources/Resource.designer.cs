@@ -45,7 +45,13 @@ namespace Excercies_One.Droid
 		{
 			
 			// aapt resource value: 0x7f020000
-			public const int Icon = 2130837504;
+			public const int Circle = 2130837504;
+			
+			// aapt resource value: 0x7f020001
+			public const int Icon = 2130837505;
+			
+			// aapt resource value: 0x7f020002
+			public const int Square = 2130837506;
 			
 			static Drawable()
 			{
@@ -61,7 +67,7 @@ namespace Excercies_One.Droid
 		{
 			
 			// aapt resource value: 0x7f050000
-			public const int myButton = 2131034112;
+			public const int mainLayout = 2131034112;
 			
 			static Id()
 			{
