@@ -1,4 +1,4 @@
-# xamarin-forms
+# xamarin-forms-demo
 
 ### Android app demo.
 Spawn an indefinite number of new views (squares or circles) filled with random colours or pattern  images.<br>
