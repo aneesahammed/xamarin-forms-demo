@@ -3,8 +3,8 @@
 ### Android app demo.
 Spawn an indefinite number of new views (squares or circles) filled with random colours or pattern  images.<br>
 
-#Offline
+### Offline
 ![ex_1](http://getglimpses.com/github/xamarin/offline.gif)
 
-#Online
+### Online
 ![ex_2](http://getglimpses.com/github/xamarin/online.gif)
